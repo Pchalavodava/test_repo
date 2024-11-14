@@ -1,3 +1,3 @@
 a = 'hi-hi'
-
-print(a)
+b = 's0-so'
+print(a + b)
